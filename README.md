@@ -1,10 +1,10 @@
 [![Stories in Ready](https://badge.waffle.io/neovim/neovim.github.io.png?label=ready&title=Ready)](https://waffle.io/neovim/neovim.github.io)
 
-![Neovim Logo](logos/neovim-logo.png)
+![opencats Logo](logos/neovim-logo.png)
 
 **Vim's rebirth for the 21st century**
 
-Neovim is a project that seeks to aggressively refactor vim source code in
+opencats is a project that seeks to aggressively refactor vim source code in
 order to achieve the following goals:
 
 * Simplify maintenance to improve the speed that bug fixes and features get
@@ -19,7 +19,7 @@ explicit support from the editor.
 consequently improving the editor for all users.
 
 This repository is for the project's website; visit
-[Neovim's repository](https://github.com/neovim/neovim) for more details on
+[opencats's repository](https://github.com/neovim/neovim) for more details on
 the project itself.
 
 ## Contributing

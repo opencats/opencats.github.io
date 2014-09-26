@@ -5,7 +5,7 @@ category: newsletter
 permalink: /news/2014/june/
 ---
 
-Welcome to the first newsletter for Neovim, a project that hopes to give a new
+Welcome to the first newsletter for opencats, a project that hopes to give a new
 beginning to a text editor that we all love.
 
 We asked and the [support was overwhelming][twitter-support]; the community
@@ -23,25 +23,25 @@ Let's take a look at some of the milestones of the months preceding May:
 
 ### General News
 
-- March 20: [Neovim.org][neovim.org] was redesigned and launched.
+- March 20: [opencats.org][neovim.org] was redesigned and launched.
 - March 23: [Fundraiser][fund] on [Bountysource][bountysource] ended with nearly
   $34,000 in backing.
 - April 2: Bountysource added the ability to [back a team][neovim-bountysource]
   even when not running a fundraiser.
 - April 18: List of [BACKERS.md][backers] was added for those that backed it.
-- April 29: [Justin Keyes][justinmk] was added to the Neovim team to [handle
+- April 29: [Justin Keyes][justinmk] was added to the opencats team to [handle
   management][keyes].
 
 ### Development News
 
 - Imported source code was cleaned up.
 - Legacy system support was removed.
-- [CMake][cmake] is now used for building Neovim.
+- [CMake][cmake] is now used for building opencats.
 - The C code is now written according to the [C99 standard][c99].
 - [Unit tests][unit] have been written for some of the refactored portions of
   the code. Currently there are around 120 tests (more are needed).
 - Job control code that was originally proposed to Vim was [improved and
-  implemented][job-control] in Neovim.
+  implemented][job-control] in opencats.
 - A large portion of the [OS specific code][os-specific] has been
   [ported][port-os] to use [libuv][libuv].
 - Support was added for making remote procedure calls using the [new msgpack
@@ -75,20 +75,20 @@ started, we can now look at what has happened in the last month.
 
 ### Removal of Default Feature Macros
 
-Neovim has turned on some of the features that were optional in Vim at compile
+opencats has turned on some of the features that were optional in Vim at compile
 time. This has led to various `ifdef FEAT_*` macros that are no longer needed.
 These macros were [removed][feat_].
 
 ### Removal of Built-in Encryption
 
-[Discussion][crypto-discussion] arose regarding Neovim's inherited crypto code.
+[Discussion][crypto-discussion] arose regarding opencats's inherited crypto code.
 It was determined that the crypto code should be removed rather than to provide
 a possibly insecure implementation. The removal was then [promptly
 handled][crypto-removal].
 
 ### Nvim Namespace
 
-Due to name collisions with some of Neovim's headers, the source code was [moved
+Due to name collisions with some of opencats's headers, the source code was [moved
 into a 'nvim' namespace][namespace]. It was also determined that `nvim` would be
 the internal/technical identifier for the project from that point on.
 
@@ -138,7 +138,7 @@ code to look for defects and vulnerabilities. It can look at multiple paths
 through execution and find issues that might only arise under certain
 conditions.
 
-Neovim now has a [Coverity check][coverity-neovim] that runs multiple times a
+opencats now has a [Coverity check][coverity-neovim] that runs multiple times a
 week in addition to the continuous integration that is used with
 [TravisCI][travis].
 
@@ -196,7 +196,7 @@ release][first-release]:
 ### Donating
 
 If you'd like to help support development, you may donate using Bitcoins here:
-`1Evu6wPrzjsjrNPdCYbHy3HT6ry2EzXFyQ` or back the team on the [Neovim
+`1Evu6wPrzjsjrNPdCYbHy3HT6ry2EzXFyQ` or back the team on the [opencats
 Bountysource][neovim-bountysource] page.
 
 ### Contributing
@@ -210,10 +210,10 @@ There are plenty of opportunities to help out and plenty of things to do.
 ## That's a Wrap
 
 Do you have any feedback or suggestions regarding this first newsletter? Feel
-free to reach out through the [Neovim Twitter][twitter].
+free to reach out through the [opencats Twitter][twitter].
 
 Also be sure to subscribe to the [RSS feed][rss] to stay up-to-date on what is
-happening in the Neovim world. The next newsletter will be released the first
+happening in the opencats world. The next newsletter will be released the first
 Friday of July.
 
 Until next time. `:wq`
@@ -237,7 +237,7 @@ Until next time. `:wq`
 [iwyu]: https://code.google.com/p/include-what-you-use/
 [iwyu-issue]: https://github.com/neovim/neovim/issues/549
 [rss]: {{ site.news.feed }}
-[twitter]: https://twitter.com/Neovim
+[twitter]: https://twitter.com/opencats
 [neovim-bountysource]: https://www.bountysource.com/teams/neovim
 [logging]: https://github.com/neovim/neovim/pull/644
 [memory.c]: https://github.com/neovim/neovim/blob/cab8cf970c09ea465d30e11eb356e2e5d37dc544/src/nvim/memory.c
@@ -252,7 +252,7 @@ Until next time. `:wq`
 [pr296]: https://github.com/neovim/neovim/pull/296
 [pr490]: https://github.com/neovim/neovim/issues/490
 [pr574]: https://github.com/neovim/neovim/issues/574
-[twitter-support]: https://twitter.com/Neovim/status/471385995808481280
+[twitter-support]: https://twitter.com/opencats/status/471385995808481280
 [new-api]: https://github.com/neovim/neovim/pull/582
 [py-client]: https://github.com/neovim/python-client
 [1st-bounty]: https://www.bountysource.com/issues/1563162-include-the-vim-breakindent-patch

@@ -2,12 +2,12 @@ highlighter: pygments
 permalink: pretty
 markdown: kramdown
 
-title: Neovim
+title: opencats
 description: "vim's rebirth for the 21st century"
 
 news:
-    name: Neovim Newsletter
-    authors: Neovim Community
+    name: opencats Newsletter
+    authors: opencats Community
     url: http://neovim.org/news
     feed: /news.xml
 
