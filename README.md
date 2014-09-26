@@ -1,6 +1,6 @@
-[![Stories in Ready](https://badge.waffle.io/neovim/neovim.github.io.png?label=ready&title=Ready)](https://waffle.io/neovim/neovim.github.io)
+[![Stories in Ready](https://badge.waffle.io/opencats/opencats.github.io.png?label=ready&title=Ready)](https://waffle.io/opencats/opencats.github.io)
 
-![opencats Logo](logos/neovim-logo.png)
+![opencats Logo](logos/opencats-logo.png)
 
 **Vim's rebirth for the 21st century**
 
@@ -19,7 +19,7 @@ explicit support from the editor.
 consequently improving the editor for all users.
 
 This repository is for the project's website; visit
-[opencats's repository](https://github.com/neovim/neovim) for more details on
+[opencats's repository](https://github.com/opencats/opencats) for more details on
 the project itself.
 
 ## Contributing
@@ -41,6 +41,6 @@ Install bower if you don't have it:
 Then install the JS dependencies with `bower install` 
 ## License
 
-&copy; 2014 Cameron Eagans and Josh Branchaud
+&copy; 2014 yessir
 
 Licensed under the MIT License. See LICENSE for details.
