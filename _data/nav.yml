@@ -5,10 +5,10 @@
 - title: Documentation
   url: /doc/
 - title: Google Group
-  url: https://groups.google.com/forum/#!forum/neovim
+  url: https://groups.google.com/forum/#!forum/opencats
 - title: Twitter
   url: http://twitter.com/opencats
 - title: Bountysource
-  url: https://www.bountysource.com/teams/neovim
+  url: https://www.bountysource.com/teams/opencats
 - title: Development
-  url: https://github.com/neovim/neovim
+  url: https://github.com/opencats/opencats
