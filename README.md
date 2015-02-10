@@ -1,25 +1,20 @@
-[![Stories in Ready](https://badge.waffle.io/neovim/neovim.github.io.png?label=ready&title=Ready)](https://waffle.io/neovim/neovim.github.io)
+[![Stories in Ready](https://badge.waffle.io/opencats/opencats.github.io.png?label=ready&title=Ready)](https://waffle.io/opencats/opencats.github.io)
 
-![Neovim Logo](logos/opencats-logo.png)
+![Opencats Logo](logos/opencats-logo.png)
 
-**Vim's rebirth for the 21st century**
+**Opencats for a free, open candidate tracking solution**
 
-Neovim is a project that seeks to aggressively refactor vim source code in
+Opencats is a project that seeks to develop and refactor the cats source code in
 order to achieve the following goals:
 
-* Simplify maintenance to improve the speed that bug fixes and features get
-merged.
-* Split the work between multiple developers.
-* Enable the implementation of new/modern user interfaces without any
-modifications to the core source.
-* Improve the extensibility power with a new plugin architecture based on
-coprocesses. Plugins will be written in any programming language without any
-explicit support from the editor.
-* By achieving those goals new developers will soon join the community,
-consequently improving the editor for all users.
+* Maintain compatibility with current PHP levels.
+* Deploy security fixes.
+* Improve base functionality.
+* Document and extend module development. 
+* Improve opencats for all users and solicit enhancement requests.
 
 This repository is for the project's website; visit
-[Neovim's repository](https://github.com/neovim/neovim) for more details on
+[Opencats repository](https://github.com/opencats/opencats) for more details on
 the project itself.
 
 ## Contributing
@@ -27,29 +22,15 @@ the project itself.
 
 ## Setup
 
-### Installing Ruby gems
-`sudo gem install bundler` to get bundler, then you can just `bundle install` to install all the gems.
+### Installing LAMP
 
 ### Serving locally
-```
-jekyll serve --watch
-```
-Open on `http://localhost:4000`
 
-### Running tests
-```
-bundle exec rake test
-```
+Open on `http://localhost/cats`
 
-### (Optionally) Regenerate dependencies
-Install bower if you don't have it:
-```
-npm install bower
-```
-Then install the JS dependencies with `bower install`.
 
 ## License
 
-&copy; 2014 Cameron Eagans and Josh Branchaud
+&copy; [Cats Public License](http://www.catsone.com/cpl/CPL.txt)
 
-Licensed under the MIT License. See LICENSE for details.
+Licensed under the CPL License. See LICENSE for details.
