@@ -1,6 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/neovim/neovim.github.io.png?label=ready&title=Ready)](https://waffle.io/neovim/neovim.github.io)
 
-![Neovim Logo](logos/neovim-logo.png)
+![Neovim Logo](logos/opencats-logo.png)
 
 **Vim's rebirth for the 21st century**
 
