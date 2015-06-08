@@ -2,7 +2,7 @@ highlighter: pygments
 permalink: pretty
 markdown: kramdown
 
-title: OpenCATS Applicant Tracking System
+title: Neovim
 description: "OpenCATS - the free open-source ATS"
 
 news:
