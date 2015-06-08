@@ -9,8 +9,8 @@ redirect_from:
 
 <section class="masthead">
   <div class="container">
-    <h1>The Web's leading free, open-source candidate tracking system</h1>
-    <p class="lead">Get it here.</p>
+    <h1>The Vim text editor has been loved by a generation of users.</h1>
+    <p class="lead">This is the next generation.</p>
   </div>
 </section>
 
@@ -19,17 +19,19 @@ redirect_from:
     <div class="col-wide">
       <h2>Planned features</h2>
 
-      <h3>Improve base functionality</h3>
+      <h3>More powerful plugins</h3>
 
-      <p>The project facilitates sharing of community developed modules and shares back base functionality improvements for the benefity of all.</p>
+      <p>Neovim plans to think of plugins from the start and provide a system that allows for extension in any language. The idea is to allow plugins to be co-processes that communicate with Vim asynchronously. This allows the plugin to listen for events and to send commands to Vim at any time.</p>
 
-      <h3>Maintain compatibility with current PHP levels</h3>
+      <p>Your old plugins will still work with Neovim as a compatibility layer will be provided. Little to no modification will be required.</p>
 
-      <p>Ensure the codebase is maintained for current versions of PHP. Deploy all required security fixes. </p>
+      <h3>Better GUI architecture</h3>
 
-      <h3>Improve opencats for all users and solicit enhancement requests</h3>
+      <p>Neovim will focus on providing a headless text editing environment. This will allow any GUI to be written that ties into the native GUI of whatever operating system it is running on.</p>
 
-      <p>The Project lives or dies with it's community involvement. Maintain and progress the functionality roadmap.</p>
+      <h3>First-class support for embedding</h3>
+
+      <p>Since Neovim will provide the interface to interacting with text, any program will be able to tap into this potential and be able to include Neovim commands right in the application.</p>
     </div>
     <div class="col-narrow">
       <div class="sponsors">
