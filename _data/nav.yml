@@ -4,11 +4,11 @@
   url: /news/
 - title: Documentation
   url: /doc/
-- title: Google Plus
-  url: https://plus.google.com/u/0/communities/114360650426940040923
+- title: User Forums
+  url: http://opencats.org/forums
 - title: Twitter
   url: http://twitter.com/OpenCATSATS
 - title: Bountysource
   url: https://www.bountysource.com/teams/opencats
 - title: Development
-  url: https://github.com/opencats/opencats
+  url: https://groups.google.com/forum/#!forum/opencats-dev
