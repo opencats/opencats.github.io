@@ -16,6 +16,7 @@ url: "http://opencats.org"
 gems:
     - jekyll-redirect-from
     - jekyll-mentions
+    - jekyll-sitemap
 
 exclude:
     - CNAME
@@ -24,3 +25,4 @@ exclude:
     - LICENSE
     - README.md
     - vendor/
+    
