@@ -1,7 +1,1 @@
-# .gitignore for neovim.github.io
 
-## bundler
-/.bundle/*
-
-## jekyll
-/_site/*
