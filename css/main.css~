@@ -82,7 +82,7 @@ blockquote {
 }
 
 .logo {
-  width: 250px;
+  width: 120px;
   position: relative;
   top: 4px;
 }
