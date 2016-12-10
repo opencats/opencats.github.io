@@ -3,7 +3,7 @@
 - title: News
   url: /news/
 - title: Documentation
-  url: https://github.com/opencats/opencats/wiki
+  url: http://opencats-documentation.readthedocs.io/en/latest/
 - title: User Support Forum
   url: http://forums.opencats.org
 - title: Bountysource
