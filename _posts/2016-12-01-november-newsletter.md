@@ -15,7 +15,7 @@ Let's take a look at some of the milestones of the previous six months;
 
 - A re-energised and active Developer team actively working to improve base code and functionality.
 - several new features introduced including candidate address completion by zipcode, customisable job-codes, and configurable levels for users. 
-- documentation is now standardised into a [readthedocs](http://opencats-documentation.readthedocs.io/) , and easily pritned to PDF. 
+- Installation and User documentation is now standardised into a [readthedocs site](http://opencats-documentation.readthedocs.io/) , viewable online and easily printed to PDF. 
 
 
 ### Development News
