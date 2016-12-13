@@ -20,9 +20,9 @@ Let's take a look at some of the milestones of the previous six months;
 
 ### Development News
 
-- Severeral deprecated errors corrected, 
+- Several deprecated errors corrected, 
 - license is clarified
-- code deployment far more robust than previously - Travis CI runs test-cases for each PR, and codacy reviews the code quality
+- code deployment is now far more robust - Travis CI runs test-cases for each PR, and codacy automatically reviews the code quality
 
 ### At 20,000 Feet
 
