@@ -1,14 +1,10 @@
 - title: Home
   url: /
-- title: News
-  url: /news/
-- title: Documentation
-  url: https://github.com/opencats/opencats/wiki
 - title: User Support Forum
   url: http://forums.opencats.org
-- title: Bountysource
-  url: https://www.bountysource.com/teams/opencats
-- title: Development
-  url: https://groups.google.com/forum/#!forum/opencats-dev
+- title: Documentation
+  url: http://opencats-documentation.readthedocs.io/en/latest/
+- title: News
+  url: /news/
 - title: Demo Site
   url: http://demo.opencats.org
