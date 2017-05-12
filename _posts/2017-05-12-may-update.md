@@ -26,7 +26,7 @@ We're well along the path for the next major version, too - moving to the Symfon
 
 ### Changelog
 
-The full details of the release (including chaangelog) are at [https://github.com/opencats/OpenCATS/releases/tag/0.9.4](https://github.com/opencats/OpenCATS/releases/tag/0.9.4)
+The full details of the release (including changelog) are at [https://github.com/opencats/OpenCATS/releases/tag/0.9.4](https://github.com/opencats/OpenCATS/releases/tag/0.9.4)
 
 ### Thank you to the developers
 
@@ -35,7 +35,7 @@ The unsung heroes are the developers who have put an immense amount of personal 
 ### Come and help!
 If you want to out with the brand new challenged of OpenCATS as it migrates to Symfony and Bootstrap.. Please view the project on github and lend a hand. We actively monitor github issues, and regularly collaborate on slack.
 
-[http://github.com/opencats/opencats](http://github.com/opencats/opencats)
+[http://github.com/opencats/opencats](http://github.com/opencats/opencats)  
 [http://opencats.slack.com](http://opencats.slack.com)
 
 ### Support queries?
