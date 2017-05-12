@@ -14,7 +14,7 @@ OpenCATS is the leading open-source Applicant Tracking System for recruiters and
 It is now possible to configure granular permissions for users based upon their roles and permit/restrict access to specific sections of the application. This is configured in the global configuration file config.php
 
 ### Replacement of TinyMCE with CKEditor
-All references to TinyMCE have been removed and it's prelaced in it's entirety throughout the application with the current version of CKEditor. 
+All references to TinyMCE have been removed and it's replaced in it's entirety throughout the application with the current version of CKEditor. 
 
 ### Zipcode lookup via google. 
 
@@ -33,7 +33,7 @@ The full details of the release (including changelog) are at [https://github.com
 The unsung heroes are the developers who have put an immense amount of personal time into maintaining and enhancing this project. You can find them in the release notes.. Every single one of them should be honoured!
 
 ### Come and help!
-If you want to out with the brand new challenged of OpenCATS as it migrates to Symfony and Bootstrap.. Please view the project on github and lend a hand. We actively monitor github issues, and regularly collaborate on slack.
+If you want to out with the brand new challenges of OpenCATS as it migrates to Symfony and Bootstrap - please view the project on github and lend a hand. We actively monitor github issues, and regularly collaborate on slack.
 
 [http://github.com/opencats/opencats](http://github.com/opencats/opencats)  
 [http://opencats.slack.com](http://opencats.slack.com)
@@ -42,3 +42,7 @@ If you want to out with the brand new challenged of OpenCATS as it migrates to S
 If you've deployed OpenCATS and have a support query, please visit the [User support forums](http://forums.opencat.org) or if you have found an issue with the code - then raise an [issue on github](http://github.com/opencats/opencats/issues)
 
 ALternatively, you can email me night or day - [russh@opencats.org](mailto:russh@opencats.org)
+
+Thanks, 
+
+The OpenCATS team!
