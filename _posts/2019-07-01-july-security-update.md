@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: newsletter
 title: "0.9.4 Security update"
 category: newsletter
 permalink: /news/2019/july/
