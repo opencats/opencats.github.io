@@ -73,6 +73,7 @@ blockquote {
 
 .navbar {
   padding: 12px 0;
+  background: #3c92d1;
 }
 @media (min-width: 568px) {
   .navbar {
