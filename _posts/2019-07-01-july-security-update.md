@@ -24,7 +24,7 @@ This problem has been fixed in version 0.9.4-3
 
 We recommend that you upgrade your opencats instance asap.
 
-If you wish to apply a fix instead, please [view the changes](https://github.com/opencats/OpenCATS/pull/440) which requries you to add a single line to /lib/DocumentToText.php
+If you wish to apply a fix instead, please [view the changes](https://github.com/opencats/OpenCATS/pull/440) which requires you to add a single line to /lib/DocumentToText.php
 
 ### Thanks
 We are extremely grateful to Reginald Dodd for finding this vulnerability and notifying the OpenCATS project. 
