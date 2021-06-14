@@ -1,4 +1,4 @@
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 markdown: kramdown
 
@@ -13,7 +13,7 @@ news:
 
 url: "http://opencats.org"
 
-gems:
+plugins:
     - jekyll-redirect-from
     - jekyll-mentions
     - jekyll-sitemap

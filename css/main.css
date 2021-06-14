@@ -17,7 +17,7 @@ body {
 }
 
 a {
-  color: #3c92d1;
+  color: #685b4c;
   text-decoration: none;
 }
 
@@ -132,6 +132,7 @@ blockquote {
   border-top: solid 1px #ececec;
   border-bottom: solid 1px #ececec;
   text-align: center;
+  background: #3c92d1;
   padding: 20px 12px;
 }
 @media (min-width: 568px) {

@@ -7,7 +7,7 @@ permalink: /news/2017/may/
 
 ## Introduction
 
-OpenCATS is the leading open-source Applicant Tracking System for recruiters and companies. It is the ongoing result of the community's hard work and collaborative development since it was forked from the original base project (which moved into a closed-source SAAS model). This version of OpenCATS provides a number of new features, addresses critical security concerns, and maintains compatibility with current releases of PHP and MySQL.
+OpenCATS is the leading open-source Applicant Tracking System for recruiters and companies. It is the ongoing result of the community's hard work and collaborative development since it was forked from the original base project (which moved into a closed-source SAAS model). This version of OpenCATS provides a number of new features, addresses critical security concerns, and maintains compatibility with current releases of PHP and MySQL..
 
 ### ACL system for role-based restrictions
 
