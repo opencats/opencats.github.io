@@ -24,10 +24,10 @@ This problem has been fixed in version 0.9.4-3
 
 We recommend that you upgrade your opencats instance asap.
 
-If you wish to apply a fix instead, please [view the changes](https://github.com/opencats/OpenCATS/pull/440) which requires you to add a single line to /lib/DocumentToText.php
+If you wish to apply a fix instead, please [view the changes](https://github.com/opencats/OpenCATS/pull/440) which requries you to add a single line to /lib/DocumentToText.php
 
 ### Thanks
-We are extremely grateful to Reginald Dodd for finding this vulnerability and notifying the OpenCATS project. 
+We are extremely grateful to Mark Ruther for finding this vulnerability and notifying the OpenCATS project. 
 
 ### Support queries?
 If you have any questions regarding this security fix, please visit the [User support forums](http://forums.opencat.org) or if you have found an issue with the code - then raise an [issue on github](http://github.com/opencats/opencats/issues)
