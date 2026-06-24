@@ -1,6 +1,12 @@
-- title: User Support Forum
-  url: http://forums.opencats.org
+- title: GitHub Discussions
+  url: https://github.com/opencats/OpenCATS/discussions
+- title: Legacy Forum Archive
+  url: /forums/
 - title: Documentation
   url: https://documentation.opencats.org
+- title: Releases
+  url: https://github.com/opencats/OpenCATS/releases/latest
+- title: Security Advisories
+  url: https://github.com/opencats/OpenCATS/security/advisories
 - title: News
   url: /news/

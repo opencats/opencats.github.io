@@ -8,10 +8,10 @@ description: "OpenCATS - the free open-source ATS"
 news:
     name: OpenCATS Newsletter
     authors: OpenCATS Community
-    url: http://opencats.org/news
+    url: https://opencats.org/news
     feed: /news.xml
 
-url: "http://opencats.org"
+url: "https://opencats.org"
 
 plugins:
     - jekyll-redirect-from

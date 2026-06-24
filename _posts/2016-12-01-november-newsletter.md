@@ -14,13 +14,13 @@ Let's take a look at some of the milestones of the previous six months;
 ### General News
 
 - A re-energised and active Developer team actively working to improve base code and functionality.
-- several new features introduced including candidate address completion by zipcode, customisable job-codes, and configurable levels for users. 
-- Installation and User documentation is now standardised into a [readthedocs site](http://opencats-documentation.readthedocs.io/) , viewable online and easily printed to PDF. 
+- several new features introduced including candidate address completion by zipcode, customisable job-codes, and configurable levels for users.
+- Installation and User documentation is now standardised into a [readthedocs site](https://documentation.opencats.org) , viewable online and easily printed to PDF.
 
 
 ### Development News
 
-- Several deprecated errors corrected, 
+- Several deprecated errors corrected,
 - license is clarified
 - code deployment is now far more robust - Travis CI runs test-cases for each PR, and codacy automatically reviews the code quality
 

@@ -14,11 +14,11 @@ OpenCATS is the leading open-source Applicant Tracking System for recruiters and
 It is now possible to configure granular permissions for users based upon their roles and permit/restrict access to specific sections of the application. This is configured in the global configuration file config.php
 
 ### Replacement of TinyMCE with CKEditor
-All references to TinyMCE have been removed and it's replaced in it's entirety throughout the application with the current version of CKEditor. 
+All references to TinyMCE have been removed and it's replaced in it's entirety throughout the application with the current version of CKEditor.
 
-### Zipcode lookup via google. 
+### Zipcode lookup via google.
 
-When adding in new candidate or contact details, the address details will auto-populate using a lookup to google services. Note that some formatting varies per country. Currently this is tested for USA / Europe. 
+When adding in new candidate or contact details, the address details will auto-populate using a lookup to google services. Note that some formatting varies per country. Currently this is tested for USA / Europe.
 
 ### Working hard for the future
 
@@ -35,14 +35,14 @@ The unsung heroes are the developers who have put an immense amount of personal 
 ### Come and help!
 If you want to out with the brand new challenges of OpenCATS as it migrates to Symfony and Bootstrap - please view the project on github and lend a hand. We actively monitor github issues, and regularly collaborate on slack.
 
-[http://github.com/opencats/opencats](http://github.com/opencats/opencats)  
-[http://opencats.slack.com](http://opencats.slack.com)
+[https://github.com/opencats/OpenCATS](https://github.com/opencats/OpenCATS)
+[https://github.com/opencats/OpenCATS/discussions](https://github.com/opencats/OpenCATS/discussions)
 
 ### Support queries?
-If you've deployed OpenCATS and have a support query, please visit the [User support forums](http://forums.opencat.org) or if you have found an issue with the code - then raise an [issue on github](http://github.com/opencats/opencats/issues)
+If you've deployed OpenCATS and have a support query, please visit the [User support forums](https://github.com/opencats/OpenCATS/discussions) or if you have found an issue with the code - then raise an [issue on github](https://github.com/opencats/OpenCATS/issues)
 
 ALternatively, you can email me night or day - [russh@opencats.org](mailto:russh@opencats.org)
 
-Thanks, 
+Thanks,
 
 The OpenCATS team!
