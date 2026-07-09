@@ -4,6 +4,8 @@
   url: /screenshots/
 - title: Demo
   url: /demo/
+- title: News
+  url: /news/
 - title: Releases
   url: https://github.com/opencats/OpenCATS/releases/latest
 - title: Support

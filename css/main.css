@@ -35,6 +35,7 @@ p { margin: 0 0 18px; color: var(--muted); }
 .navbar { position: sticky; top: 0; z-index: 10; background: rgba(251, 253, 252, 0.9); backdrop-filter: blur(18px); border-bottom: 1px solid var(--line); }
 .nav-container { min-height: 86px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
 .logo { display: block; width: 190px; max-width: 42vw; }
+.site-nav { max-width: 100%; overflow-x: auto; }
 .site-nav ul { display: flex; align-items: center; gap: 6px; list-style: none; margin: 0; padding: 0; flex-wrap: nowrap; justify-content: flex-end; }
 .site-nav a { display: block; padding: 10px 11px; border-radius: 999px; color: var(--muted); font-size: 15px; font-weight: 700; white-space: nowrap; }
 .site-nav a:hover, .site-nav .current a { color: var(--ink); background: var(--soft); }
@@ -84,9 +85,9 @@ p { margin: 0 0 18px; color: var(--muted); }
 .site-footer a { color: #dfffea; font-weight: 700; }
 
 @media (max-width: 860px) {
-  .nav-container, .site-nav ul { justify-content: center; }
-  .site-nav ul { flex-wrap: wrap; }
   .nav-container { flex-direction: column; padding: 16px 0; }
+  .site-nav { width: 100%; }
+  .site-nav ul { justify-content: flex-start; }
   .hero-grid, .section-grid, .split, .cards-three, .footer-grid { grid-template-columns: 1fr; }
   .hero { padding-top: 56px; }
 }
